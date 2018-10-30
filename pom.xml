@@ -30,6 +30,7 @@
         <poi.version>3.17</poi.version>
         <shiro.version>1.4.0</shiro.version>
         <thymeleaf.extras.shiro.version>2.0.0</thymeleaf.extras.shiro.version>
+        <swagger.version>2.8.0</swagger.version>
     </properties>
 
     <dependencies>
@@ -131,6 +132,18 @@
             <groupId>com.github.theborakompanioni</groupId>
             <artifactId>thymeleaf-extras-shiro</artifactId>
             <version>${thymeleaf.extras.shiro.version}</version>
+        </dependency>
+
+        <!-- swagger -->
+        <dependency>
+            <groupId>io.springfox</groupId>
+            <artifactId>springfox-swagger2</artifactId>
+            <version>${swagger.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>io.springfox</groupId>
+            <artifactId>springfox-swagger-ui</artifactId>
+            <version>${swagger.version}</version>
         </dependency>
 
 
