@@ -17,7 +17,7 @@ public class Application {
 	}
 
 	/**
-	 * 配置mybatis的分页插件pageHelper   2
+	 * 配置mybatis的分页插件pageHelper
 	 * @return
 	 */
 	@Bean
