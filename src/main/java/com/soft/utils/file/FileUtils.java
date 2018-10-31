@@ -1,4 +1,4 @@
-package com.soft.base.utils.file;
+package com.soft.utils.file;
 
 import java.io.File;
 import java.io.FileInputStream;

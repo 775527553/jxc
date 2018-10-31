@@ -1,15 +1,12 @@
 package com.soft.system.controller;
 
 
-import com.github.pagehelper.PageInfo;
-import com.soft.base.utils.ResultData;
+import com.soft.utils.ResultData;
 import com.soft.system.entity.User;
 import com.soft.system.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.HashMap;

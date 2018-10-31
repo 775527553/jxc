@@ -1,4 +1,4 @@
-package com.soft.base.utils;
+package com.soft.utils;
 
 import java.io.Serializable;
 import java.util.List;

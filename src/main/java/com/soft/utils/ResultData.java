@@ -1,4 +1,4 @@
-package com.soft.base.utils;
+package com.soft.utils;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.soft.base.utils.http;
+package com.soft.utils.http;
 
 import java.io.BufferedReader;
 import java.io.IOException;

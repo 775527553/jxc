@@ -2,7 +2,7 @@ package com.soft.system.service;
 
 import com.github.pagehelper.PageHelper;
 import com.github.pagehelper.PageInfo;
-import com.soft.base.utils.TableDataInfo;
+import com.soft.utils.TableDataInfo;
 import com.soft.system.dao.UserDao;
 import com.soft.system.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
